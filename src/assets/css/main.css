@@ -1105,6 +1105,9 @@ button, input, .swiper-pagination-bullet {
     display: -ms-flexbox;
     display: flex;
   }
+  .main {
+    margin-top: 80px;
+  }
   .main__buttons:before {
     width: 100%;
   }
